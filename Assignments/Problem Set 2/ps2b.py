@@ -1,3 +1,10 @@
+# Problem Set 2
+# Name: Daniel Faltynowski
+# Collaborators: ---
+# Time: 2:00
+#
+
+
 ###
 ### template of code for Problem 4 of Problem Set 2, Fall 2008
 ###

@@ -1,3 +1,10 @@
+# Problem Set 2
+# Name: Daniel Faltynowski
+# Collaborators: ---
+# Time: 2:00
+#
+
+
 n = input('Enter a number: ')
 n = int(n)
 
