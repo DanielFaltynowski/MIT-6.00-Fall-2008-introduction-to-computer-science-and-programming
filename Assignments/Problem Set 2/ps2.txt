@@ -1,0 +1,231 @@
+------------------------------------------------------------------
+PROBLEM 1.
+
+
+Enter a number: 
+
+
+PROBLEM 1.
+
+You can buy 50 nuggets using:
+	 2 packages of 6 nuggets,
+	 2 packages of 9 nuggets,
+	 1 packages of 20 nuggets.
+
+
+
+
+
+PROBLEM 3.
+
+Largest number of McNuggets that cannot be bought in exact quantity: 43
+Enter a number: 
+
+
+PROBLEM 1.
+
+You can buy 51 nuggets using:
+	 1 packages of 6 nuggets,
+	 5 packages of 9 nuggets,
+	 0 packages of 20 nuggets.
+
+
+
+
+
+PROBLEM 3.
+
+Largest number of McNuggets that cannot be bought in exact quantity: 43
+Enter a number: 
+
+
+PROBLEM 1.
+
+You can buy 52 nuggets using:
+	 2 packages of 6 nuggets,
+	 0 packages of 9 nuggets,
+	 2 packages of 20 nuggets.
+
+
+
+
+
+PROBLEM 3.
+
+Largest number of McNuggets that cannot be bought in exact quantity: 43
+Enter a number: 
+
+
+PROBLEM 1.
+
+You can buy 53 nuggets using:
+	 1 packages of 6 nuggets,
+	 3 packages of 9 nuggets,
+	 1 packages of 20 nuggets.
+
+
+
+
+
+PROBLEM 3.
+
+Largest number of McNuggets that cannot be bought in exact quantity: 43
+Enter a number: 
+
+
+PROBLEM 1.
+
+You can buy 54 nuggets using:
+	 0 packages of 6 nuggets,
+	 6 packages of 9 nuggets,
+	 0 packages of 20 nuggets.
+
+
+
+
+
+PROBLEM 3.
+
+Largest number of McNuggets that cannot be bought in exact quantity: 43
+Enter a number: 
+
+
+PROBLEM 1.
+
+You can buy 55 nuggets using:
+	 1 packages of 6 nuggets,
+	 1 packages of 9 nuggets,
+	 2 packages of 20 nuggets.
+
+
+
+
+
+PROBLEM 3.
+
+Largest number of McNuggets that cannot be bought in exact quantity: 43
+Enter a number: 
+
+
+PROBLEM 1.
+
+You can buy 100 nuggets using:
+	 0 packages of 6 nuggets,
+	 0 packages of 9 nuggets,
+	 5 packages of 20 nuggets.
+
+
+
+
+
+PROBLEM 3.
+
+Largest number of McNuggets that cannot be bought in exact quantity: 43
+Enter a number: 
+
+
+PROBLEM 1.
+
+You can buy 200 nuggets using:
+	 0 packages of 6 nuggets,
+	 0 packages of 9 nuggets,
+	 10 packages of 20 nuggets.
+
+
+
+
+
+PROBLEM 3.
+
+Largest number of McNuggets that cannot be bought in exact quantity: 43
+Enter a number: 
+
+
+PROBLEM 1.
+
+You can buy 300 nuggets using:
+	 0 packages of 6 nuggets,
+	 0 packages of 9 nuggets,
+	 15 packages of 20 nuggets.
+
+
+
+
+
+PROBLEM 3.
+
+Largest number of McNuggets that cannot be bought in exact quantity: 43
+Enter a number: 
+
+
+PROBLEM 1.
+
+You can buy 400 nuggets using:
+	 0 packages of 6 nuggets,
+	 0 packages of 9 nuggets,
+	 20 packages of 20 nuggets.
+
+
+
+
+
+PROBLEM 3.
+
+Largest number of McNuggets that cannot be bought in exact quantity: 43
+Enter a number: 
+
+
+PROBLEM 1.
+
+You can buy 500 nuggets using:
+	 0 packages of 6 nuggets,
+	 0 packages of 9 nuggets,
+	 25 packages of 20 nuggets.
+
+
+
+
+
+PROBLEM 3.
+
+Largest number of McNuggets that cannot be bought in exact quantity: 43
+Enter a number: 
+
+
+PROBLEM 1.
+
+You can buy 1000 nuggets using:
+	 0 packages of 6 nuggets,
+	 0 packages of 9 nuggets,
+	 50 packages of 20 nuggets.
+
+
+
+
+
+PROBLEM 3.
+
+Largest number of McNuggets that cannot be bought in exact quantity: 43
+------------------------------------------------------------------
+
+
+
+
+
+
+
+------------------------------------------------------------------
+PROBLEM 2.
+
+That happens because numbers greather than 43 have one of 6, 9, 20 as a divisor.
+------------------------------------------------------------------
+
+
+
+------------------------------------------------------------------
+PROBLEM 4.
+
+Packages (5, 7, 9) | Best So Far 13
+Packages (6, 9, 20) | Best So Far 43
+Packages (3, 5, 7) | Best So Far 4
+------------------------------------------------------------------
